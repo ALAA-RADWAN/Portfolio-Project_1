@@ -1,4 +1,4 @@
-# Portfolio-Project_1 | Business Request:
+# Portfolio-Project_1 | Business Request Using SQL and Power BI:
 
 Steven  - Sales Manager:
 Hi,
@@ -10,4 +10,12 @@ The budget is for 2021 and we usually look 2 years back in time when we do analy
 Let me know if you need anything else!
 
 // Steven
+# Our Main Dataset here is the file "AdventureWorksDW2014"
 
+1- First to Ask The best Question we must get the keywords from The Business request:
+[internet sales reports, visual dashboards, sold of what products,  which clients , how it has been over time, sales person, filter them also, budget , spreadsheet, look 2 years back ]
+2- Our Stackholders Here are Primary: Sales Manager
+Secondary : Sales Person = Sales Representative
+3-Prepare Our Data in SQL by restore it in Backup as its extention is .bak
+4- Process Our Data By Cleaning our main tables : Customer, Product, Date (Calender) and internet Sales and Analyze them as requested in email.
+5-Share Our insights by Dashboard using Power Bi.
